@@ -1,14 +1,14 @@
-  
-@font-face {
+
+/* @font-face {
     font-family: google-sans;
     src: url(assets/fonts/google-font.woff2);
-}
+} */
 .google-font{
-    font-family: google-sans
+    font-family: 'B612', sans-serif;
 };
 
 body{
-    font-family: google-sans
+    font-family: 'B612', sans-serif;
 }
 
 .lightModeCard{
